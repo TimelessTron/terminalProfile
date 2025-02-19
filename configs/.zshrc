@@ -62,6 +62,9 @@ plugins=(
   git
   zsh-syntax-highlighting
   zsh-autosuggestions
+  timer
+  common-aliases
+  zsh-navigation-tools
 )
 
 source $ZSH/oh-my-zsh.sh
